@@ -9,8 +9,8 @@ Principles of Artificial Intelligence: Probabilistic Reasoning and Decision-Maki
 
 - LWsimulation(Java): Stochastic simulation (likehood weighting) for estimation of a belief network
 
-- Language_Modeling(Python): Statistical language modeling for unigram, bigram and mixture model
+- Language_Modeling(Python): Statistical language modeling for unigram, bigram and a mixture model
 
-- Stock_Prediction(Python): Prediction of the Nasdaq stock market
+- Stock_Prediction(Python): Prediction of the Nasdaq stock market price
 
 - EM-NoisyOR(Java): Using Expectation Maximum for classification

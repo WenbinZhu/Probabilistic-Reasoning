@@ -13,4 +13,6 @@ Principles of Artificial Intelligence: Probabilistic Reasoning and Decision-Maki
 
 - Stock_Prediction(Python): Prediction of the Nasdaq stock market price
 
-- EM-NoisyOR(Java): Using Expectation Maximum for classification
+- EM-NoisyOR(Java): Use Expectation Maximum for classification
+
+- Viterbi(Python): Use Viterbi alogorithm for speech recognition(decoding a sentense), given a Hidden Markov Model

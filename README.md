@@ -17,4 +17,4 @@ Principles of Artificial Intelligence: Probabilistic Reasoning and Decision-Maki
 
 - Viterbi(Python): Use Viterbi alogorithm for speech recognition, decoding a sentense from observations, given a Hidden Markov Model
 
-- Reinforcement_Learning: Use value iteration and policy iteration in reinforcement learning to slove the maze problem
+- Reinforcement_Learning(Python): Use value iteration and policy iteration in reinforcement learning to slove the maze problem
